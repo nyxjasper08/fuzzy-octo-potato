@@ -1,12 +1,14 @@
 # fuzzy-octo-potato
-info about me :P
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>info about me!</title>
+    <title>About me!</title>
 </head>
 <body>
-    Im new at coding, im a noob actually!
+    </div>
+    hi my name is jasper, this is my VERY first time coding, im a noob at this, thank you for your patience.
+    </div>
 </body>
-</DOCTYPE html>
+</html>
+<output>
